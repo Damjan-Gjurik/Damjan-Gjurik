@@ -1,6 +1,6 @@
 # Damjan Gjurik
 
-High School Student | Future FEIT Student | Electrical Engineering | Web Development
+High School Student | Electrical Engineering | Web Development
 
 ---
 
