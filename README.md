@@ -1,8 +1,6 @@
-# Hi, I'm Damjan 👋
+# Damjan Gjurik
 
-I am a high school student specializing in Electrical Engineering with a strong interest in software development, automation and embedded systems.
-
-I enjoy learning new technologies and building practical projects that combine hardware and software.
+High School Student | Future FEIT Student | Electrical Engineering | Web Development
 
 ---
 
